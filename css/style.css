@@ -1,4 +1,5 @@
-html {font-family: helvetica;}
+html {font-family: helvetica;
+text-align: center;}
 
 #menu, #ny {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
 
@@ -17,3 +18,5 @@ h3 {font-size: 23px;
 font-weight: bold;}
 
 p {font-size: 14px;}
+
+.footer {background-color: dimgray; text-align: left;}
