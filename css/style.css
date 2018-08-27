@@ -3,6 +3,8 @@ text-align: center;}
 
 #menu, #ny {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");}
 
+#ny {color: white;}
+
 h1 {font-size: 70px;
 font-weight: bold;
 color: white;}
@@ -19,4 +21,5 @@ font-weight: bold;}
 
 p {font-size: 14px;}
 
-.footer {background-color: dimgray; text-align: left;}
+.footer {background-color: dimgray; text-align: left;
+color: white;}
